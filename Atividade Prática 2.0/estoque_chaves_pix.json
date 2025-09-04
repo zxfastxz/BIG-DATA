@@ -1,0 +1,1602 @@
+[
+    {
+        "Data": "2025-06-30",
+        "ISPB": "67960229",
+        "Nome": "CC CREDIGUAÇU",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 6255
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "07564184",
+        "Nome": "COOP ASCOOB SERTÕES",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 6
+    },
+    {
+        "Data": "2023-02-28",
+        "ISPB": "07440317",
+        "Nome": "CC SICOOB CREDMED",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2025-01-31",
+        "ISPB": "33641877",
+        "Nome": "EQUIS BANK",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 4
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "07097064",
+        "Nome": "COOP SICOOB CONFIANÇA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 2427
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "70431630",
+        "Nome": "COOP SICREDI UNIVALES MT/RO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 31187
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "92934215",
+        "Nome": "BANRISUL PAGAMENTOS IP",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 58545
+    },
+    {
+        "Data": "2023-12-31",
+        "ISPB": "73647935",
+        "Nome": "COOP UNIQUE BR LTDA.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1575
+    },
+    {
+        "Data": "2024-05-31",
+        "ISPB": "09639338",
+        "Nome": "CECM PRAIA GRANDE E REGIãO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "05428587",
+        "Nome": "COOP CRESOL OLIVEIRA DOS BREJINHOS",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2023-08-31",
+        "ISPB": "22896431",
+        "Nome": "PICPAY",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 4254
+    },
+    {
+        "Data": "2025-06-30",
+        "ISPB": "30507541",
+        "Nome": "BRASIL CASH IP S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 22
+    },
+    {
+        "Data": "2023-01-31",
+        "ISPB": "11760553",
+        "Nome": "GAZINCRED S.A. SCFI",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 8
+    },
+    {
+        "Data": "2023-10-31",
+        "ISPB": "33172537",
+        "Nome": "BCO J.P. MORGAN S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 17
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "71432926",
+        "Nome": "CCPS E LA DO TRIANG MINEIRO E SUL DE MG LTDA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 907
+    },
+    {
+        "Data": "2024-03-31",
+        "ISPB": "09515813",
+        "Nome": "ABASTECE AI",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2024-01-31",
+        "ISPB": "87733077",
+        "Nome": "COOP SICREDI ESSÊNCIA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 8699
+    },
+    {
+        "Data": "2023-02-28",
+        "ISPB": "01760242",
+        "Nome": "CCLA DE BH E CIDADES POLO DE MG",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 572
+    },
+    {
+        "Data": "2024-03-31",
+        "ISPB": "01864151",
+        "Nome": "CECM SERV E EMPREG PUBL MUN BH BETIM BRUMAD CONTAG IBI NL RN",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 590
+    },
+    {
+        "Data": "2024-07-31",
+        "ISPB": "30385259",
+        "Nome": "VOLUTI",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 3
+    },
+    {
+        "Data": "2024-07-31",
+        "ISPB": "00707903",
+        "Nome": "CC VALE DO CANOAS",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 591
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "25387671",
+        "Nome": "CC ALTO PARANAIBA E REGIÃO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 907
+    },
+    {
+        "Data": "2023-02-28",
+        "ISPB": "08357240",
+        "Nome": "BCO CSF S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2025-06-30",
+        "ISPB": "27842177",
+        "Nome": "BPY CCTVM S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 24
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "04237413",
+        "Nome": "COOP SICREDI VALE SÃO FRANCISCO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 3170
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "40557732",
+        "Nome": "BNS CAPITAL PAGAMENTOS LTDA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 3
+    },
+    {
+        "Data": "2023-03-31",
+        "ISPB": "07206072",
+        "Nome": "COOP SICREDI NOVOS HORIZONTES PR/SP/RJ",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 866
+    },
+    {
+        "Data": "2024-11-30",
+        "ISPB": "04694278",
+        "Nome": "CECM INTEG. MF DP ESTADO RJ",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 764
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "06332931",
+        "Nome": "COOP SICREDI CERRADO GO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1406
+    },
+    {
+        "Data": "2023-05-31",
+        "ISPB": "40867163",
+        "Nome": "N26 SCD",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 18995
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "07679404",
+        "Nome": "BANCO TOPÁZIO S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 27
+    },
+    {
+        "Data": "2025-02-28",
+        "ISPB": "95213211",
+        "Nome": "COOP SICREDI CAMINHO DAS ÁGUAS RS",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 10066
+    },
+    {
+        "Data": "2024-09-30",
+        "ISPB": "09639338",
+        "Nome": "CECM PRAIA GRANDE E REGIãO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2023-09-30",
+        "ISPB": "05888589",
+        "Nome": "COOP SUL",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 3804
+    },
+    {
+        "Data": "2024-03-31",
+        "ISPB": "81723108",
+        "Nome": "CREDICOAMO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1426
+    },
+    {
+        "Data": "2023-04-30",
+        "ISPB": "41805003",
+        "Nome": "CCLA ALTO SÃO FRANCISCO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1003
+    },
+    {
+        "Data": "2024-02-29",
+        "ISPB": "26960328",
+        "Nome": "CCLA DO TOCANTINS",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 926
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "92702067",
+        "Nome": "BCO DO ESTADO DO RS S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 26009
+    },
+    {
+        "Data": "2025-06-30",
+        "ISPB": "35534511",
+        "Nome": "A27 IP S/A",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 18
+    },
+    {
+        "Data": "2023-12-31",
+        "ISPB": "78157146",
+        "Nome": "CREDIALIANÇA CCR",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 4
+    },
+    {
+        "Data": "2023-05-31",
+        "ISPB": "42873828",
+        "Nome": "CC AGROCREDI LTDA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1076
+    },
+    {
+        "Data": "2023-12-31",
+        "ISPB": "89280960",
+        "Nome": "CECM DOS EMPR DAS EMP RANDON",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 71
+    },
+    {
+        "Data": "2023-06-30",
+        "ISPB": "71328769",
+        "Nome": "SICOOB COCRED CC",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1745
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "26960328",
+        "Nome": "CCLA DO TOCANTINS",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 4579
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "05276770",
+        "Nome": "COOP CRESOL FRONTEIRAS PR/SC/SP/ES",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 1043
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "37511258",
+        "Nome": "INOVANTI IP S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 190
+    },
+    {
+        "Data": "2023-08-31",
+        "ISPB": "00804046",
+        "Nome": "COOP CREDICAPI LTDA - SICOOB CREDICAPI",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 1236
+    },
+    {
+        "Data": "2023-10-31",
+        "ISPB": "02335109",
+        "Nome": "CCLA ZONA DA MATA LTDA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 2748
+    },
+    {
+        "Data": "2024-09-30",
+        "ISPB": "03528402",
+        "Nome": "CC INV DO ACRE - SICOOB ACRE",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 2
+    },
+    {
+        "Data": "2023-05-31",
+        "ISPB": "02015588",
+        "Nome": "CCLA DO CENTRO SUL RONDONIENSE",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 11299
+    },
+    {
+        "Data": "2025-02-28",
+        "ISPB": "28505126",
+        "Nome": "LOGBANK IP S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 321
+    },
+    {
+        "Data": "2023-05-31",
+        "ISPB": "32074986",
+        "Nome": "BEETELLER",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 2
+    },
+    {
+        "Data": "2024-07-31",
+        "ISPB": "02904138",
+        "Nome": "COOP CRESOL ÁUREA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 519
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "27084098",
+        "Nome": "TRANSFEERA IP S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 751819
+    },
+    {
+        "Data": "2024-04-30",
+        "ISPB": "39587424",
+        "Nome": "UY3 SCD S/A",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 20
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "07946451",
+        "Nome": "COOP CRESOL ATIVA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 429
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "01042487",
+        "Nome": "CC SICOOB UNIDAS",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 11
+    },
+    {
+        "Data": "2025-06-30",
+        "ISPB": "05392810",
+        "Nome": "CC REGIÃO MERIDIONAL BRASIL",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1662
+    },
+    {
+        "Data": "2024-11-30",
+        "ISPB": "01637949",
+        "Nome": "CCLA VALE DO PARANAPANEMA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1797
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "87510475",
+        "Nome": "COOP SICREDI ROTA DAS TERRAS RS/MG",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 1148
+    },
+    {
+        "Data": "2024-05-31",
+        "ISPB": "10209619",
+        "Nome": "CCLA DA GRANDE GOIÂNIA LTDA.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 957
+    },
+    {
+        "Data": "2025-01-31",
+        "ISPB": "02910987",
+        "Nome": "COOP CRESOL CENTRO SUL RS/MS",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 2294
+    },
+    {
+        "Data": "2023-04-30",
+        "ISPB": "03612764",
+        "Nome": "COOP FRONTEIRAS",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 2988
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "00315557",
+        "Nome": "UNICRED DO BRASIL",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2025-02-28",
+        "ISPB": "00714671",
+        "Nome": "EWALLY IP S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 1897
+    },
+    {
+        "Data": "2024-01-31",
+        "ISPB": "32983165",
+        "Nome": "COOP SICREDI VL DO CERRADO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 888
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "21670187",
+        "Nome": "CC CREDIBOM",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 2415
+    },
+    {
+        "Data": "2023-11-30",
+        "ISPB": "95594941",
+        "Nome": "COOP SICREDI REG CENTRO RS/MG",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 8838
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "35257964",
+        "Nome": "CICLLOS PAY",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 11
+    },
+    {
+        "Data": "2024-05-31",
+        "ISPB": "25420696",
+        "Nome": "CC CREDINACIONAL LTDA - SICOOB CREDINACIONAL",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 456
+    },
+    {
+        "Data": "2025-01-31",
+        "ISPB": "04862600",
+        "Nome": "PORTOSEG S.A. CFI",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 9
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "01286361",
+        "Nome": "UNIPRIME PIONEIRA CC",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 783
+    },
+    {
+        "Data": "2023-12-31",
+        "ISPB": "99999060",
+        "Nome": "N/A",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 5
+    },
+    {
+        "Data": "2023-12-31",
+        "ISPB": "02934201",
+        "Nome": "COOP CRESOL LIDERANCA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 701
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "62073200",
+        "Nome": "BOFA MERRILL LYNCH BM S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 36
+    },
+    {
+        "Data": "2024-09-30",
+        "ISPB": "44683140",
+        "Nome": "MAGNUM SCD",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 110
+    },
+    {
+        "Data": "2023-07-31",
+        "ISPB": "41805003",
+        "Nome": "CCLA ALTO SÃO FRANCISCO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1080
+    },
+    {
+        "Data": "2024-11-30",
+        "ISPB": "26960328",
+        "Nome": "CCLA DO TOCANTINS",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 1047
+    },
+    {
+        "Data": "2023-05-31",
+        "ISPB": "08044854",
+        "Nome": "CC INVESTIMENTO SICOOB CENTRO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 13717
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "02275781",
+        "Nome": "CCM SERV FEDERAIS NA PARAÍBA - SICOOB COOPERCRET",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 407
+    },
+    {
+        "Data": "2023-04-30",
+        "ISPB": "18966739",
+        "Nome": "CC COPERSUL LTDA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 182
+    },
+    {
+        "Data": "2023-09-30",
+        "ISPB": "00795423",
+        "Nome": "BANCO SEMEAR",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 19
+    },
+    {
+        "Data": "2024-02-29",
+        "ISPB": "17819084",
+        "Nome": "PAGCERTO IP LTDA.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 10544
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "13059145",
+        "Nome": "EBURY BCO DE CÂMBIO S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 72
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "71441406",
+        "Nome": "CCLA PEDRO LEOPOLDO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 470
+    },
+    {
+        "Data": "2023-06-30",
+        "ISPB": "42934794",
+        "Nome": "CC CREDIPIMENTA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 107
+    },
+    {
+        "Data": "2023-09-30",
+        "ISPB": "06910457",
+        "Nome": "CCLA SANTA CRUZ PALMEIRAS",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 990
+    },
+    {
+        "Data": "2024-01-31",
+        "ISPB": "01736516",
+        "Nome": "CCLA REG. CTR. E OESTE MINEIRO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1121
+    },
+    {
+        "Data": "2024-03-31",
+        "ISPB": "01703620",
+        "Nome": "CCLA UNIÃO CENTRO OESTE MINAS",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 2063
+    },
+    {
+        "Data": "2023-11-30",
+        "ISPB": "04388688",
+        "Nome": "CC SICOOB ENGECRED",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 2332
+    },
+    {
+        "Data": "2024-04-30",
+        "ISPB": "99999060",
+        "Nome": "N/A",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 5
+    },
+    {
+        "Data": "2023-03-31",
+        "ISPB": "02057584",
+        "Nome": "CC SICOOB SERTÃO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 399
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "44705774",
+        "Nome": "SOMAPAY SCD S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 6008
+    },
+    {
+        "Data": "2024-08-31",
+        "ISPB": "09424988",
+        "Nome": "CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 1237
+    },
+    {
+        "Data": "2023-04-30",
+        "ISPB": "35210410",
+        "Nome": "ONEKEY PAYMENTS IP S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 9
+    },
+    {
+        "Data": "2025-02-28",
+        "ISPB": "01522368",
+        "Nome": "BCO BNP PARIBAS BRASIL S A",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 2
+    },
+    {
+        "Data": "2023-02-28",
+        "ISPB": "71392047",
+        "Nome": "CC MONTECREDI LTDA.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 434
+    },
+    {
+        "Data": "2025-06-30",
+        "ISPB": "66402207",
+        "Nome": "COOPERATIVA DE CRÉDITO SAROM",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 12920
+    },
+    {
+        "Data": "2025-01-31",
+        "ISPB": "01658426",
+        "Nome": "COOP COOPERFORTE LTDA.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 890
+    },
+    {
+        "Data": "2024-08-31",
+        "ISPB": "04388688",
+        "Nome": "CC SICOOB ENGECRED",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 363
+    },
+    {
+        "Data": "2023-03-31",
+        "ISPB": "01073966",
+        "Nome": "CCR DE ABELARDO LUZ",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 166
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "37079720",
+        "Nome": "COOP SICOOB CREDIJUSTRA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 297
+    },
+    {
+        "Data": "2025-05-31",
+        "ISPB": "78858107",
+        "Nome": "CCLAA AURIVERDE-SICOOB CREDIAL",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 2840
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "01648418",
+        "Nome": "NSTECH IP S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2025-04-30",
+        "ISPB": "10209619",
+        "Nome": "CCLA DA GRANDE GOIÂNIA LTDA.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 523
+    },
+    {
+        "Data": "2023-09-30",
+        "ISPB": "09004796",
+        "Nome": "CECM SICOOB CRED-ACILPA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 307
+    },
+    {
+        "Data": "2023-10-31",
+        "ISPB": "04463602",
+        "Nome": "COOP SICREDI CEN OEST PAULISTA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 4120
+    },
+    {
+        "Data": "2024-05-31",
+        "ISPB": "95594941",
+        "Nome": "COOP SICREDI REG CENTRO RS/MG",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 12186
+    },
+    {
+        "Data": "2024-08-31",
+        "ISPB": "09552111",
+        "Nome": "COOP JUST GOIAS E CELG",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 43
+    },
+    {
+        "Data": "2023-06-30",
+        "ISPB": "09463721",
+        "Nome": "COOP CRESOL JACINTO MACHADO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 243
+    },
+    {
+        "Data": "2024-04-30",
+        "ISPB": "13370835",
+        "Nome": "DOCK IP S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 148975
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "04902979",
+        "Nome": "BCO DA AMAZONIA S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 6001
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "11969853",
+        "Nome": "COOP CRESOL CONEXÃO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 3136
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "33630661",
+        "Nome": "GOWD IP LTDA.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 37
+    },
+    {
+        "Data": "2024-11-30",
+        "ISPB": "00068987",
+        "Nome": "CC ARACREDI LTDA.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 641
+    },
+    {
+        "Data": "2023-09-30",
+        "ISPB": "10175348",
+        "Nome": "CCMLA REGIãO ADMINISTRATIVA DE SOROCABA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 795
+    },
+    {
+        "Data": "2024-04-30",
+        "ISPB": "90400888",
+        "Nome": "BCO SANTANDER (BRASIL) S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 197885
+    },
+    {
+        "Data": "2024-09-30",
+        "ISPB": "71698674",
+        "Nome": "COOP SICOOB MANTIQUEIRA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 980
+    },
+    {
+        "Data": "2024-05-31",
+        "ISPB": "05969937",
+        "Nome": "CCMS MUNICIPAIS DE BEBEDOURO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 103
+    },
+    {
+        "Data": "2023-04-30",
+        "ISPB": "00315557",
+        "Nome": "UNICRED DO BRASIL",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2023-10-31",
+        "ISPB": "44683140",
+        "Nome": "MAGNUM SCD",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 4
+    },
+    {
+        "Data": "2023-04-30",
+        "ISPB": "00329598",
+        "Nome": "SEFER INVESTIMENTOS DTVM LTDA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 7
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "16814330",
+        "Nome": "BK IP S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 977
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "62232889",
+        "Nome": "BCO DAYCOVAL S.A",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 7867
+    },
+    {
+        "Data": "2023-08-31",
+        "ISPB": "53623781",
+        "Nome": "CC COOPCRED",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 522
+    },
+    {
+        "Data": "2023-04-30",
+        "ISPB": "02883398",
+        "Nome": "CC VALE ITAJAÍ E ITAPOCÚ",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 602
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "82842386",
+        "Nome": "INFOPAGO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 7
+    },
+    {
+        "Data": "2024-07-31",
+        "ISPB": "01727929",
+        "Nome": "CC UNICRED EVOLUÇÃO LTDA.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1101
+    },
+    {
+        "Data": "2025-04-30",
+        "ISPB": "37753531",
+        "Nome": "PAGSMILE IP LTDA.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 3
+    },
+    {
+        "Data": "2023-02-28",
+        "ISPB": "19962468",
+        "Nome": "COOP SICREDI COOABCRED RS",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 385
+    },
+    {
+        "Data": "2024-03-31",
+        "ISPB": "17351180",
+        "Nome": "BCO TRIANGULO S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 7269
+    },
+    {
+        "Data": "2023-06-30",
+        "ISPB": "62109566",
+        "Nome": "CREDISAN CC",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 1135
+    },
+    {
+        "Data": "2025-08-31",
+        "ISPB": "22760839",
+        "Nome": "CC NOSSOCREDITO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 4250
+    },
+    {
+        "Data": "2023-01-31",
+        "ISPB": "05582619",
+        "Nome": "CC SICOOB OURO VERDE",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 2142
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "32422628",
+        "Nome": "CCR DE GUACUI",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2023-05-31",
+        "ISPB": "09343038",
+        "Nome": "COOP SICREDI ALTSERTÃO PARAIBANO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 582
+    },
+    {
+        "Data": "2024-04-30",
+        "ISPB": "07564184",
+        "Nome": "COOP ASCOOB SERTÕES",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2024-04-30",
+        "ISPB": "21018182",
+        "Nome": "EBANX IP LTDA.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 63
+    },
+    {
+        "Data": "2025-04-30",
+        "ISPB": "13720915",
+        "Nome": "BCO WESTERN UNION",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 16
+    },
+    {
+        "Data": "2024-07-31",
+        "ISPB": "31818873",
+        "Nome": "QESH IP LTDA.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 55
+    },
+    {
+        "Data": "2024-11-30",
+        "ISPB": "46642294",
+        "Nome": "COOP SICOOB COOPEREMB",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 1604
+    },
+    {
+        "Data": "2024-08-31",
+        "ISPB": "01042487",
+        "Nome": "CC SICOOB UNIDAS",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 5
+    },
+    {
+        "Data": "2023-02-28",
+        "ISPB": "04013172",
+        "Nome": "CC SICOOB 3 COLINAS",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 2335
+    },
+    {
+        "Data": "2024-08-31",
+        "ISPB": "21866694",
+        "Nome": "CC CREDINOR",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 5696
+    },
+    {
+        "Data": "2024-03-31",
+        "ISPB": "32474884",
+        "Nome": "SICOOB SUL-LITORÂNEO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 6478
+    },
+    {
+        "Data": "2024-12-31",
+        "ISPB": "23273917",
+        "Nome": "VALLOO PAGAMENTOS",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 2
+    },
+    {
+        "Data": "2024-11-30",
+        "ISPB": "59285411",
+        "Nome": "BANCO PAN",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 3
+    },
+    {
+        "Data": "2025-08-31",
+        "ISPB": "11351086",
+        "Nome": "MERCADO BITCOIN IP LTDA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 3651
+    },
+    {
+        "Data": "2025-08-31",
+        "ISPB": "01739375",
+        "Nome": "CCLA LAGOA DA PRATA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 646
+    },
+    {
+        "Data": "2025-02-28",
+        "ISPB": "86913993",
+        "Nome": "COOP SICREDI CARIRI",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1
+    },
+    {
+        "Data": "2024-02-29",
+        "ISPB": "03269540",
+        "Nome": "CC SERV MIL POL CIVIL SEC ED",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1696
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "24313102",
+        "Nome": "99PAY IP S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 3
+    },
+    {
+        "Data": "2024-05-31",
+        "ISPB": "04484490",
+        "Nome": "COOP SICREDI ALTA NOROESTE SP",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1921
+    },
+    {
+        "Data": "2024-02-29",
+        "ISPB": "95213211",
+        "Nome": "COOP SICREDI CAMINHO DAS ÁGUAS RS",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 27706
+    },
+    {
+        "Data": "2025-06-30",
+        "ISPB": "33615055",
+        "Nome": "CCLA ANÁPOLIS E REGIÃO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 314
+    },
+    {
+        "Data": "2024-09-30",
+        "ISPB": "23949522",
+        "Nome": "CC CREDICARPA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 249
+    },
+    {
+        "Data": "2023-09-30",
+        "ISPB": "04350225",
+        "Nome": "COOP CRESOL TRADICAO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 696
+    },
+    {
+        "Data": "2025-06-30",
+        "ISPB": "02766672",
+        "Nome": "COOP CRESOL PLANALTO SUL",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 425
+    },
+    {
+        "Data": "2024-02-29",
+        "ISPB": "94243839",
+        "Nome": "UNICRED PIONEIRA",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 81
+    },
+    {
+        "Data": "2024-11-30",
+        "ISPB": "81706616",
+        "Nome": "COOP SICREDI VLR SUSTENT PR/SP",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 4399
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "68900810",
+        "Nome": "BCO RENDIMENTO S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 1269
+    },
+    {
+        "Data": "2023-01-31",
+        "ISPB": "02587492",
+        "Nome": "CCLA URUBICI",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 708
+    },
+    {
+        "Data": "2023-04-30",
+        "ISPB": "02528151",
+        "Nome": "CC SICOOB CREDCOOP",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 624
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "27098060",
+        "Nome": "BANCO DIGIO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 128217
+    },
+    {
+        "Data": "2025-04-30",
+        "ISPB": "78865995",
+        "Nome": "CCLA VALE DO RIO DO PEIXE",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 455
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "03662047",
+        "Nome": "COOP SICREDI MP",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 132
+    },
+    {
+        "Data": "2024-07-31",
+        "ISPB": "17343510",
+        "Nome": "COOP CRESOL RAIZ",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 6335
+    },
+    {
+        "Data": "2025-04-30",
+        "ISPB": "58160789",
+        "Nome": "BCO SAFRA S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 35140
+    },
+    {
+        "Data": "2023-10-31",
+        "ISPB": "09463721",
+        "Nome": "COOP CRESOL JACINTO MACHADO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 338
+    },
+    {
+        "Data": "2023-03-31",
+        "ISPB": "33579731",
+        "Nome": "CCLA CENTRO-SUL GOIANO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 1963
+    },
+    {
+        "Data": "2024-09-30",
+        "ISPB": "87784088",
+        "Nome": "COOP SICREDI SUL MINAS RS/MG",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 12161
+    },
+    {
+        "Data": "2025-01-31",
+        "ISPB": "07669921",
+        "Nome": "CCM SICOOB CREDIACISC",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 231
+    },
+    {
+        "Data": "2023-06-30",
+        "ISPB": "09639338",
+        "Nome": "CECM PRAIA GRANDE E REGIãO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 2
+    },
+    {
+        "Data": "2023-08-31",
+        "ISPB": "04862600",
+        "Nome": "PORTOSEG S.A. CFI",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 1269
+    },
+    {
+        "Data": "2025-02-28",
+        "ISPB": "04902979",
+        "Nome": "BCO DA AMAZONIA S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 10597
+    },
+    {
+        "Data": "2024-01-31",
+        "ISPB": "24048910",
+        "Nome": "CC CREDINTER",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 3088
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "01559914",
+        "Nome": "CCLA LESTE E NORDESTE MINEIRO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 5541
+    },
+    {
+        "Data": "2024-11-30",
+        "ISPB": "40083667",
+        "Nome": "CAPITAL CONSIG SCD S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 3
+    },
+    {
+        "Data": "2024-07-31",
+        "ISPB": "92555150",
+        "Nome": "COOP SICREDI ALT SERRA RS/SC",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 1513
+    },
+    {
+        "Data": "2024-04-30",
+        "ISPB": "02493000",
+        "Nome": "SICOOB LESTE",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 864
+    },
+    {
+        "Data": "2025-01-31",
+        "ISPB": "08071414",
+        "Nome": "CECM SICOOB COOPERAC",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 766
+    },
+    {
+        "Data": "2023-12-31",
+        "ISPB": "00804046",
+        "Nome": "COOP CREDICAPI LTDA - SICOOB CREDICAPI",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 58
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "20520298",
+        "Nome": "BS2 PAYMENTS IP S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 14
+    },
+    {
+        "Data": "2023-02-28",
+        "ISPB": "02844024",
+        "Nome": "COOP CRESOL EVOLUÇAO",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 95
+    },
+    {
+        "Data": "2025-06-30",
+        "ISPB": "12481100",
+        "Nome": "BIZ IP LTDA.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 309
+    },
+    {
+        "Data": "2024-08-31",
+        "ISPB": "44683140",
+        "Nome": "MAGNUM SCD",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 2
+    },
+    {
+        "Data": "2023-02-28",
+        "ISPB": "17343510",
+        "Nome": "COOP CRESOL RAIZ",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 463
+    },
+    {
+        "Data": "2025-07-31",
+        "ISPB": "37205447",
+        "Nome": "E2 IP LTDA.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Celular",
+        "qtdChaves": 11
+    },
+    {
+        "Data": "2023-03-31",
+        "ISPB": "45246410",
+        "Nome": "BANCO GENIAL",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "e-mail",
+        "qtdChaves": 119
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "87900411",
+        "Nome": "COOP SICREDI SEMENTES DO SUL",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 4315
+    },
+    {
+        "Data": "2023-08-31",
+        "ISPB": "02015588",
+        "Nome": "CCLA DO CENTRO SUL RONDONIENSE",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 22689
+    },
+    {
+        "Data": "2025-02-28",
+        "ISPB": "27351731",
+        "Nome": "REALIZE CFI S.A.",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "e-mail",
+        "qtdChaves": 12
+    },
+    {
+        "Data": "2024-06-30",
+        "ISPB": "27214112",
+        "Nome": "AL5 S.A. CFI",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "CNPJ",
+        "qtdChaves": 4
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "05979692",
+        "Nome": "CREDCREA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 5335
+    },
+    {
+        "Data": "2024-10-31",
+        "ISPB": "17768068",
+        "Nome": "PINPAG IP S.A.",
+        "NaturezaUsuario": "PJ",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 8
+    },
+    {
+        "Data": "2023-08-31",
+        "ISPB": "62109566",
+        "Nome": "CREDISAN CC",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Celular",
+        "qtdChaves": 1180
+    },
+    {
+        "Data": "2023-08-31",
+        "ISPB": "08560508",
+        "Nome": "COOP CRESOL TRIUNFO",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 1910
+    },
+    {
+        "Data": "2023-12-31",
+        "ISPB": "05276770",
+        "Nome": "COOP CRESOL FRONTEIRAS PR/SC/SP/ES",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "CPF",
+        "qtdChaves": 5224
+    },
+    {
+        "Data": "2025-03-31",
+        "ISPB": "02833202",
+        "Nome": "UNICRED SUDOESTE DA BAHIA",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 447
+    },
+    {
+        "Data": "2024-05-31",
+        "ISPB": "02766672",
+        "Nome": "COOP CRESOL PLANALTO SUL",
+        "NaturezaUsuario": "PF",
+        "TipoChave": "Aleatória",
+        "qtdChaves": 1078
+    }
+]
